@@ -4,7 +4,9 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 
 ---
 
-## AngularJS 2
+## Django + Angular 2
+
+### AngularJS 2
 
 - [angular2.com](http://www.angular2.com/)
 - [Awesome Angular2](https://github.com/angular-class/awesome-angular2)
@@ -16,7 +18,9 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 - [Eddhead.io AngularJS 2 Lessons](https://egghead.io/technologies/angular2)
 - [Build An Angular 2 App](http://www.wintellect.com/devcenter/jcarroll/build-an-angular-2-app-the-root-component)
 
-## Django + AngularJS 1.x
+---
+
+## Django + Angular 1
 
 ### Tutorial
 
