@@ -38,8 +38,8 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 
 ---
 
-## Django + Development Environment
+## Django + Docker
 
-### Docker
+### Tutorial
 
 - [Django Development with Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
