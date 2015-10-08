@@ -32,7 +32,9 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 
 ## Django + Celery
 
-[Setting up an asynchronous task queue for django using celery redis](http://michal.karzynski.pl/blog/2014/05/18/setting-up-an-asynchronous-task-queue-for-django-using-celery-redis/), 05/2014
+### Tutorial
+
+- [Setting up an asynchronous task queue for django using celery redis](http://michal.karzynski.pl/blog/2014/05/18/setting-up-an-asynchronous-task-queue-for-django-using-celery-redis/), 05/2014
 
 ---
 
@@ -40,4 +42,4 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 
 ### Docker
 
-[Django Development with Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+- [Django Development with Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
