@@ -43,3 +43,11 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 ### Tutorial
 
 - [Django Development with Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+
+---
+
+## Django + OAuth2.0
+
+## Tutorial
+
+- [Simple TODO API with Django and OAuth2](http://www.madewithtea.com/simple-todo-api-with-django-and-oauth2.html), 07/2014
