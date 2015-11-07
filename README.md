@@ -4,6 +4,14 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 
 ---
 
+## Django + Backbone.js
+
+### repository
+
+[django tastypie backbone todo tutorial](https://github.com/linssen/django-tastypie-backbone-todo-tutorial)
+
+---
+
 ## Django + Angular 2
 
 ### AngularJS 2
