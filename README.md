@@ -6,6 +6,10 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 
 ## Django + Backbone.js
 
+### explanation
+
+[backbone.js for Django developers](https://lincolnloop.com/blog/2012/jun/5/backbonejs-django-developers/)
+
 ### repository
 
 [django tastypie backbone todo tutorial](https://github.com/linssen/django-tastypie-backbone-todo-tutorial)
