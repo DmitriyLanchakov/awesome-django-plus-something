@@ -86,3 +86,11 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 ## Django + Deployment
 
 - [Definitive Guide to Django Deployment](https://github.com/rogueleaderr/definitive_guide_to_django_deployment)
+
+---
+
+## Django
+
+## Tutorial
+
+- [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
