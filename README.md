@@ -80,3 +80,9 @@ A curated list of awesome Django plus something tutorials, libraries, etc.
 
 - [LinkedIn Social Authentication in Django](https://realpython.com/blog/python/linkedin-social-authentication-in-django/), 10/2015
 - [Simple TODO API with Django and OAuth2](http://www.madewithtea.com/simple-todo-api-with-django-and-oauth2.html), 07/2014
+
+---
+
+## Django + Deployment
+
+- [Definitive Guide to Django Deployment](https://github.com/rogueleaderr/definitive_guide_to_django_deployment)
